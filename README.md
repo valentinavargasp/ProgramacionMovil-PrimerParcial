@@ -8,7 +8,7 @@
 ## 📱 Demo de la App
 
 <p align="center">
-  <img src="app-bike.mp4" alt="Demo de la app" width="300" />
+  <img src="demo_rounded.gif" alt="Demo de la app" width="300" />
 </p>
 
 ---
